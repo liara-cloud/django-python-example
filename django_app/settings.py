@@ -25,8 +25,7 @@ SECRET_KEY = '^p$gyr*1s95)@3e-7^+*=0j65e3bu3$74x*gjvc(cnm(4fd43c'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
-
+ALLOWED_HOSTS = ['.liara.run']
 
 # Application definition
 
