@@ -1,0 +1,4 @@
+{
+  "platform": "docker",
+  "port": 8000
+}
